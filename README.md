@@ -1,7 +1,7 @@
 ## Hello there 👋
 ## Sou o Kauê Delfino
 
-- 🖥️ Faço estágio no Univesp
+- 🖥️ Faço estágio na Univesp
 - 🌐 Trabalho principalmente com desenvolvimento Web e Front-end
  
 ##
