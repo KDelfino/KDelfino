@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello there 👋
+## Sou o Kauê Delfino
 
-<!--
-**KDelfino/KDelfino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ Faço estágio no Univesp
+- 🌐 Trabalho principalmente com desenvolvimento Web e Front-end
+ 
+##
 
-Here are some ideas to get you started:
+### Ferramentas que uso e estudo:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,mongodb,wordpress)](https://skillicons.dev)
+ 
+ ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+ <div>
+  <a href="www.linkedin.com/in/kaue-delfino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
