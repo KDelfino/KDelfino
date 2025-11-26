@@ -1,13 +1,14 @@
 ## Hello there 👋
 ## Sou o Kauê Delfino
 
-- 🖥️ Faço estágio na Univesp
-- 🌐 Trabalho principalmente com desenvolvimento Web e Front-end
+- 🖥️ Faço estágio em desenvolvimento de software
+
  
 ##
 Estudante universitário esforçado e com muita vontade de aprender no caminho para graduar-se
 em Ciência da Computação.
-Atualmente utilizo minhas habilidades em programação para desenvolver material didático interativo com páginas web na Univesp, contribuindo para a educação a distância de qualidade.
+Utilizei minhas habilidades em programação para desenvolver materiais didáticos interativos com páginas web na Univesp, contribuindo para a educação a distância de qualidade.
+Atualmente faço estágio em desenvolvimento de software na empresa NRB Consulting.
 Sou organizado, dedicado, proativo e tenho facilidade em trabalhar tanto de forma independente quanto em equipe.
 
 Contato: kaue.delfinosan@gmail.com
