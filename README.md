@@ -17,7 +17,7 @@ Contato: kaue.delfinosan@gmail.com
 ##
 
 ### Ferramentas que uso e estudo:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,mongodb,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql,mongodb,wordpress,unity,postman,nodejs)](https://skillicons.dev)
  
  ##
 
