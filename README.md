@@ -5,11 +5,11 @@
 
  
 ##
-- Estudante universitário esforçado e com muita vontade de aprender no caminho para graduar-se em Ciência da Computação (no 6º semestre).
-<br>
-- Utilizei minhas habilidades em programação para desenvolver materiais didáticos interativos com páginas web na Univesp, contribuindo para a educação a distância de qualidade.
+- Estudante universitário esforçado e com muita vontade de aprender no caminho para graduar-se em Ciência da Computação (no 7º semestre).
 <br>
 - Atualmente faço estágio em desenvolvimento de software na empresa NRB Consulting.
+<br>
+- Utilizei minhas habilidades em programação para desenvolver materiais didáticos interativos com páginas web na Univesp, contribuindo para a educação a distância de qualidade.
 <br>
 Sou organizado, dedicado, proativo e tenho facilidade em trabalhar tanto de forma independente quanto em equipe.
 
